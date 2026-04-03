@@ -49,6 +49,6 @@ This project analyzes hotel booking data to identify patterns and factors influe
 
 ---
 
-## 👤 Chayanarka Saha
+## 👤 Author
 
-Your Name
+Chayanarka Saha
